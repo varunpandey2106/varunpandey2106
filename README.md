@@ -19,4 +19,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunpandey2106&show_icons=true&locale=en&layout=compact" alt="varunpandey2106" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varunpandey2106&show_icons=true&locale=en" alt="varunpandey2106" /></p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=VarunPandey2106&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+
+### :fire: My Stats :
+https://streak-stats.demolab.com?user=VarunPandey2106&theme=gruvbox&hide_border=true
