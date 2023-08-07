@@ -21,4 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varunpandey2106&show_icons=true&locale=en" alt="varunpandey2106" /></p>
 
 ### :fire: My Stats :
-https://streak-stats.demolab.com?user=VarunPandey2106&theme=gruvbox&hide_border=true
+[![GitHub Streak](https://streak-stats.demolab.com?user=VarunPandey2106&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
