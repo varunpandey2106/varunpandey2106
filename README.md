@@ -2,11 +2,6 @@
 <h3 align="center">I am an aspiring full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src= "https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
 
-- 🌱 I’m currently learning **React.JS and FASTAPI**
-
-- 💬 Ask me about **Django**
-
-- 📫 How to reach me **varun.pandey2106@gmail.com**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/v4runs4lt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/varun-pandey-bb7743204/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/v4roooom) 
